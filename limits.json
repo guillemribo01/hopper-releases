@@ -1,0 +1,25 @@
+{
+  "minVersion": "2.18.2",
+  "enforce": true,
+  "licenses": false,
+  "masterKeys": [
+    "4322bd61299faa2c33c6316c69d2518f5eba6632a59a61c0df6088453087752e"
+  ],
+  "limits": {
+    "connections": 5,
+    "databases": 2,
+    "requests": 15,
+    "tabs": 3,
+    "dbTabs": 3
+  },
+  "pro": [
+    "sync",
+    "deploy",
+    "erd",
+    "schemaDiff",
+    "monitor",
+    "wordpress",
+    "cron",
+    "ssl"
+  ]
+}
